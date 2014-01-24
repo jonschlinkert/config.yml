@@ -1,0 +1,22 @@
+{
+  "name": "config.yml",
+  "version": "0.1.0",
+  "description": "Boilerplate configs for Assemble projects.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/assemble/config.yml.git"
+  },
+  "bugs": {
+    "url": "https://github.com/assemble/config.yml/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/assemble/config.yml/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "_config.yml",
+  "keywords": [
+    "config"
+  ]
+}
